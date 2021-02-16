@@ -6,8 +6,6 @@ public class Demo1 {
 		
 		/*
 		 * 8 primitive data types
-		 * ----------------------------
-		 * 
 		 * typename		size(bytes)		defaultValues
 		 * -------------------------------------------------
 		 * Number Family
@@ -15,21 +13,14 @@ public class Demo1 {
 		 * short		2					0
 		 * int			4					0
 		 * long			8					0
-		 * 
 		 * Decimal Family
 		 * float		4					0.0000f
 		 * double		8					0.0000d(java takes any decimal values by default as double)
-		 * 
 		 * char			2					'\u000000'(java supports UNI-Code Character set)
-		 * 
 		 * boolean		1bit				false
-		 * 
-		 * 
-		 * 
 		 * implicit -> compiler -> assign smaller in size to larger in size
 		 * explicit ->done by developer -> we as developers we should explicitly say to the compiler to covert it to the respective type-> larger size to smaller ones
 		 */
-		
 		
 		//Implicit Casting
 		System.out.println("Implicit Demo");
