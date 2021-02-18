@@ -21,7 +21,14 @@ public class RegexPanDemo {
 		} else {
 			System.out.println(s + " is a INVALID PAN number");
 		}
-		
+		 //more examples
+		System.out.println("\nExample ");
+	    String s1 = "SHDYF1254U";
+		if(s1.matches("[A-Z]{5}[0-9]{4}[A-Z]{1}")) {
+			System.out.println(s1 + " valid");
+		}
+		else {
+			System.out.println(s + "invalid");
 		
 		String x="!@#1   ADFFSfjkdhsfk 231A$'2  L3";
 		System.out.println(x.replaceAll("[^A-Za-z]", ""));
@@ -31,4 +38,4 @@ public class RegexPanDemo {
 		System.out.println(x.replaceAll("[ 0-9A-Za-z]", ""));
 		}
 
-}
+}}
