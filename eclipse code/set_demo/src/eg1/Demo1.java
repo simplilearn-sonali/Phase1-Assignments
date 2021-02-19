@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Demo1 {
+public class Demo1 {  //hashset linkedhashset treeset
 
 	public static void main(String[] args) {
 		Set<String> hs=new HashSet<>();
