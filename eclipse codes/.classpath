@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="access_modifiers_demo/src"/>
+	<classpathentry kind="src" path="arithmetic_calculator/src"/>
+	<classpathentry kind="src" path="arrays_demo/src"/>
+	<classpathentry kind="src" path="classes_and_objects/src"/>
+	<classpathentry kind="src" path="constructor_demo/src"/>
+	<classpathentry kind="src" path="diamond_problem/src"/>
+	<classpathentry kind="src" path="email_validation/src"/>
+	<classpathentry kind="src" path="exception_demo/src"/>
+	<classpathentry kind="src" path="file_handlimng_demo/src"/>
+	<classpathentry kind="src" path="inner_class_demo/src"/>
+	<classpathentry kind="src" path="list_demo/src"/>
+	<classpathentry kind="src" path="map_demo/src"/>
+	<classpathentry kind="src" path="methods_demo/src"/>
+	<classpathentry kind="src" path="my_first_java_project/src"/>
+	<classpathentry kind="src" path="serialization_demo/src"/>
+	<classpathentry kind="src" path="set_demo/src"/>
+	<classpathentry kind="src" path="static_nonstatic_demo/src"/>
+	<classpathentry kind="src" path="stringbuffer_builder_demo/src"/>
+	<classpathentry kind="src" path="strings_demo/src"/>
+	<classpathentry kind="src" path="thread_demo/src"/>
+	<classpathentry kind="src" path="type_casting_demo/src"/>
+	<classpathentry kind="output" path="access_modifiers_demo/bin"/>
+</classpath>
